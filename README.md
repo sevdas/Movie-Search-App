@@ -1,13 +1,13 @@
-# On Movie 🎥: 
+# On Movie 🎥:
 
 ## Project Overview
 
-An app created to allow users to query list of relevant search criterias.
+An app created to allow users to search, query the API from the movie database and display
+list of relevant search criteria.
 
 On Movie is a web application build in React that serves movie data from the movie database API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 ## Steps to run it localy
 
