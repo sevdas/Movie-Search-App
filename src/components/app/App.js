@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../../assets/logo.png";
-import SearchMovies from "./SearchMovies";
+import SearchMovies from "../SearchMovies";
 
 export default function App() {
   return (
