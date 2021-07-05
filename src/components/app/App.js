@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../../assets/logo.png";
 import SearchMovies from "./SearchMovies";
 
-export default function App() {
+export default function App({ movies }) {
   return (
     <div className="container">
       <h1 className="title">On Move</h1>
