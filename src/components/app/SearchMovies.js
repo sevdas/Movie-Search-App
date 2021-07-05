@@ -56,14 +56,14 @@ export default function SearchMovies() {
           .map((movie) => {
             return (
               <div className="card" key={movie.id}>
-                <p>{movie.title}</p>
+                <p className="card__headline--title">{movie.title}</p>
                 <img
                   className="card--image"
                   src={`${baseImageUrl}${imageSize}${movie.poster_path}`}
                   alt={movie.title + " poster"}
                 />
                 <div className="card--content">
-                  <h3 className="card-title">{movie.title}</h3>
+                  <h3 className="card--title">{movie.title}</h3>
                   <p className="card--date">
                     <small>RELEASE DATE: {movie.release_date}</small>
                   </p>
