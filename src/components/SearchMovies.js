@@ -14,7 +14,6 @@ export default function SearchMovies() {
 
   const searchMovies = async (event) => {
     event.preventDefault();
-    console.log("submitting");
 
     const REACT_APP_MOVIE_API_KEY = process.env.REACT_APP_MOVIE_API_KEY;
 
