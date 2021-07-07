@@ -1,10 +1,11 @@
-# On Movie 🎥:
+# [On Movie](https://sevdas.github.io/Movie-Search-App/) 🎥:
 
 ## Project Overview
 
 An app created to allow users to search, query the API from the movie database and display
 list of relevant search criteria.
-[Visit:] (https://sevdas.github.io/Movie-Search-App/)
+
+
 
 On Movie is a web application build in React that serves movie data from the movie database API.
 
