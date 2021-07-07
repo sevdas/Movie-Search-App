@@ -15,8 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-## Steps to run it localy
-
+## Steps to run it locally
 
 In the project directory, you can run:
 
